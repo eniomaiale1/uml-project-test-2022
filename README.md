@@ -1,7 +1,7 @@
 # Programmer Demonstration Project, UM Libraries
 
 ## Goal:  
-Install pre-built docker environment and create hierarchical staff list.
+Create hierarchical staff list organized by department.
 
 ### Specifics:  
 Please complete the project using the following steps:
@@ -19,12 +19,13 @@ Please complete the project using the following steps:
    e. Sanity check:  Open your browser on localhost, using the appropriate port, to make sure the setup is working
 2. Create the application
    
-   a. Using PHP, output a staff list organized by department, with the
-      supervisor as the first person showing in each department.
+   a. Using PHP, output in HTML a hierarchical list of staff arranged by 
+department, with the supervisor as the first person showing in each 
+department
 
       b. Generate an API that outputs the data in JSON suitable for external
       applications to consume.
-3. Make your code available for review in advance of the presentation
+3. Make your code available for review in advance of the presentation (e.g., GitHub)
 ### Presentation:  
 You will present your project to appropriate members of the UM
    Libraries in the Zoom meeting.  You will explain your solution, identify any issues
